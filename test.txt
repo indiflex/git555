@@ -7,4 +7,8 @@ testsetsetset >> tt??과 왜 됐찌?
 
 tttttstststst >> test
 
+lalalalal>> lala commit 1
+
+lalal2 >> lal commit 2
+`
 
